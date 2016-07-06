@@ -1,3 +1,4 @@
+<?php
 function alphabet_order_hard($str) {
 	$arr = explode(" ", $str);
 	$array_length = count($arr);
